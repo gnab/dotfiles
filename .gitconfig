@@ -1,0 +1,9 @@
+[user]
+  name = Ole Petter Bang
+  email = olepbang@gmail.com
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+[github]
+  user = gnab
